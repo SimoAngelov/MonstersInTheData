@@ -1,4 +1,6 @@
 [core]
-    remote = origin
+    remote = public
 ['remote "origin"']
     url = https://dagshub.com/SimoAngelov/MonstersInTheData.dvc
+['remote "public"']
+    url = https://raw.githubusercontent.com/SimoAngelov/MonstersInTheData-storage/main
