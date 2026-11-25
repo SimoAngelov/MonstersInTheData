@@ -2,7 +2,7 @@
 Studying the patterns behind the sightings, not the monsters themselves.
 
 Course project for Data Science 2026, SoftUni.
-See the [project proposal](docs/Project_Proposal.ipynb).
+See the [project proposal](docs/project_proposal.ipynb).
 
 ## Getting the data
 Raw data are tracked with [DVC](https://dvc.org). The DVC cache is stored in a public repository ([MonstersInTheData-storage](https://github.com/SimoAngelov/MonstersInTheData-storage)), so no account or token is needed:
