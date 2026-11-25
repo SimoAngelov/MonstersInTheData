@@ -1,0 +1,6 @@
+outs:
+- md5: 37ca1c3ad8783e489250a2e764efc454.dir
+  size: 11227054
+  nfiles: 1
+  hash: md5
+  path: bfro
