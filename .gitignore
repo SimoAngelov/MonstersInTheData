@@ -1,0 +1,33 @@
+# --- Python ---
+__pycache__/
+*.py[cod]
+*.egg-info/
+build/
+dist/
+
+# --- Jupyter ---
+.ipynb_checkpoints/
+
+# --- Virtual environments ---
+.venv/
+venv/
+env/
+.env
+
+# --- Editors / IDEs ---
+.vscode/
+.idea/
+
+# --- OS files ---
+Thumbs.db
+desktop.ini
+.DS_Store
+
+# --- Data ---
+# Data files are tracked with DVC, not Git.
+# Do NOT ignore the data/ folder here: Git must still see the *.dvc files
+# and the .gitignore files that `dvc add` creates inside data/.
+
+# --- Large or temporary outputs ---
+*.tmp
+*.log
