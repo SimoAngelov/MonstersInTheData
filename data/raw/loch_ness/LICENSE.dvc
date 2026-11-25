@@ -1,0 +1,13 @@
+md5: 27b978fb100c08718475f9b79bbba3c0
+frozen: true
+deps:
+- checksum: '"a557c68680a9ca98d23192c9faf403311cf8d7cf0e42d3a9c67114a28482e06b"'
+  size: 35149
+  hash: md5
+  path: 
+    https://raw.githubusercontent.com/Tullimonstrum/NessiestatsforJSDSE/main/LICENSE
+outs:
+- md5: 1ebbd3e34237af26da5dc08a4e440464
+  size: 35149
+  hash: md5
+  path: LICENSE

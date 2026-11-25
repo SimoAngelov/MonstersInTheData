@@ -1,0 +1,13 @@
+md5: e9fe6caafc725c55fa3ee23df3a68a68
+frozen: true
+deps:
+- checksum: '"88d7c86c25e914f5bd161258bc5e75ff71d3bc5bc59743162ce98a9e7cca53a6"'
+  size: 83593
+  hash: md5
+  path: 
+    https://raw.githubusercontent.com/Tullimonstrum/NessiestatsforJSDSE/main/Nessiereducedforeducationpaper.csv
+outs:
+- md5: a8104acaf661e2843455d508576b105b
+  size: 83593
+  hash: md5
+  path: Nessiereducedforeducationpaper.csv

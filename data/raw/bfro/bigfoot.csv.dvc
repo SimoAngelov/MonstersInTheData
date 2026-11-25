@@ -1,0 +1,13 @@
+md5: 895a4c1a031e39b5dccf11e2804a0574
+frozen: true
+deps:
+- checksum: '"fd16ac42a8c7bffe0fb23d80427f3814cb642fa27d24293998b29ae3d5fc4777"'
+  size: 11227054
+  hash: md5
+  path: 
+    https://raw.githubusercontent.com/rfordatascience/tidytuesday/main/data/2022/2022-09-13/bigfoot.csv
+outs:
+- md5: 1cf21d29170ad3c12d4a5a638472aa4d
+  size: 11227054
+  hash: md5
+  path: bigfoot.csv

@@ -1,0 +1,13 @@
+md5: d055fcb195d84b000340cda2bb93ee4f
+frozen: true
+deps:
+- checksum: '"49b6d08d16c599103daa77e9dfe0d8f860fe2ffbc5641aa25aa945bf1575b604"'
+  size: 4885
+  hash: md5
+  path: 
+    https://raw.githubusercontent.com/rfordatascience/tidytuesday/main/data/2022/2022-09-13/readme.md
+outs:
+- md5: f8e4f045cbc00d22fb6fb5534b6fe282
+  size: 4885
+  hash: md5
+  path: readme.md
