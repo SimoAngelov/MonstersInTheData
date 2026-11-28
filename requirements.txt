@@ -85,7 +85,6 @@ parso==0.8.7
 pathlib2==2.3.7.post1
 pathspec==1.1.1
 pillow==13.0.0
-pip==23.3.1
 platformdirs==4.14.8
 prompt_toolkit==3.0.53
 propcache==0.5.4
@@ -104,7 +103,7 @@ pyOpenSSL==26.4.0
 pyparsing==3.3.3
 python-dateutil==2.9.0.post0
 python-dotenv==1.2.4
-pywin32==312
+pywin32==312; sys_platform == "win32"
 PyYAML==6.0.3
 pyzmq==27.3.0
 requests==2.34.2
@@ -116,7 +115,6 @@ scipy==1.18.1
 scmrepo==3.6.2
 seaborn==0.13.2
 semver==3.1.2
-setuptools==68.2.2
 shortuuid==1.0.13
 shtab==1.13.0
 six==1.17.0
@@ -136,6 +134,5 @@ urllib3==2.8.0
 vine==5.1.0
 voluptuous==0.16.0
 wcwidth==0.9.5
-wheel==0.41.2
 yarl==1.25.1
 zc.lockfile==4.1
